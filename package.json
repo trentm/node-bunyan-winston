@@ -1,0 +1,13 @@
+{
+    "name": "bunyan-winston",
+    "description": "demo showing how to use a winston logger with a bunyan-using library (e.g. restify)",
+    "version": "1.0.0",
+    "private": true,
+    "dependencies": {
+        "restify": "*",
+        "winston": "*",
+        "bunyan": "*"
+    }
+}
+
+
